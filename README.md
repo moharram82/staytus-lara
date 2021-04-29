@@ -17,8 +17,8 @@ This repo contains an assignment requested by Staytus Hotel for PHP developer po
 ## Installation
 - Clone the repository `git clone https://github.com/moharrams/staytus-lara.git`.
 - Rename `.env.example` file to `.env` and edit parameters for the database.
-- Run `php artisan key:generate`.
 - Run `composer install`.
+- Run `php artisan key:generate`.
 - Run migrations `php artisan migrate --seed`.
 
 ## API Documentation
