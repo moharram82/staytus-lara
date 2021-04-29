@@ -5,8 +5,6 @@
     - ***username:*** admin@example.com
     - ***password:*** 12345678
 
-To , send a post request with the above credentials to the login endpoint at:  .
-
 ## Menus Endpoints
 - List all menus: `GET /api/v1/menus`.
 - Retrieve a single menu: `GET /api/v1/menus/{id}`, replace `{id}` with the actual menu id.
